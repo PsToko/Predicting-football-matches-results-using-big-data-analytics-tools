@@ -1,2 +1,3 @@
-# Predicting-football-matches-results-using-big-data-analytics-tools
-My thesis to graduate from CEID Upatras
+This project presents a machine learning-based system for predicting football match outcomes (win/draw/loss) from the English Premier league using data from 2020-2024. It combines data processing, feature engineering, and model training to analyze team performance and generate predictions.The system leverages Apache Spark for scalable data processing and PyTorch for training a neural network (MLP). Multiple machine learning models, including Logistic Regression, Random Forest, XGBoost, and LightGBM, are implemented and compared to evaluate performance. A graphical user interface (GUI) is also included, allowing users to select teams and generate real-time predictions along with visualized statistics. 
+
+The link of the thesis written in greek https://nemertes.library.upatras.gr/items/8b37562c-3690-4810-a0d9-3f7ba352ec2b
